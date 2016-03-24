@@ -1,0 +1,43 @@
+/**
+ * lang.js : support de langue 
+ */ 
+var texte_menu_jouer = new Array();
+var texte_menu_param = new Array();
+var texte_menu_aide = new Array();
+var texte_menu_dons = new Array();
+var texte_menu_quitter = new Array();
+var texte_alert_quitter = new Array();
+var texte_meilleur_score_dujour = new Array();
+var texte_meilleur_score_mondial = new Array();
+var texte_hsc_nom = new Array();
+var texte_hsc_score = new Array();
+var texte_erreur_chargement_score = new Array();
+var texte_aide_title = new Array();
+var texte_aide_content = new Array();
+var texte_popup_normal = new Array();
+var texte_param_title = new Array();
+var texte_nom = new Array();
+var texte_options = new Array();
+var texte_option_aide = new Array();
+var texte_option_sons = new Array();
+var texte_option_share = new Array();
+var texte_option_langage = new Array();
+var texte_option_langue_fr = new Array();
+var texte_option_langue_en = new Array();
+var texte_option_langue_es = new Array();
+var texte_option_difficulty = new Array();
+var texte_loading = new Array();
+var texte_dons_content = new Array();
+var texte_ready= new Array();
+var texte_shoot = new Array();
+var texte_option_diff_easy = new Array();
+var texte_option_diff_average = new Array();
+var texte_option_diff_difficult = new Array();
+var texte_option_diff_insane = new Array();
+var texte_perfect = new Array();
+var texte_excellent = new Array();
+var texte_good = new Array();
+var texte_average = new Array();
+var texte_poor = new Array();
+var texte_grandma = new Array();
+var texte_ahahah = new Array();
