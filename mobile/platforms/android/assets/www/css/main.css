@@ -48,6 +48,7 @@ body {
 #game {
 	background-image:url('../images/bg_sgp.png');
 }
+
 .noover {
 	overflow-y: hidden;
 }

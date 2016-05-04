@@ -3,12 +3,12 @@
     "installs_allowed_from": [
         "*"
     ],
-    "version": "1.0",
+    "version": "1.1",
     "name": "Shotgun Practise",
-    "description": "A shooting game on target.",
+    "description": "Shooting game on target.",
     "developer": {
         "name": "Philippe Bousquet",
-        "url": "http://darken33.free.fr"
+        "url": "http://darken33.net/wp/index.php/2015/05/05/shotgun-practise-shooting-game-on-target/"
     },
     "orientation": ["portrait"],
     "permissions": {
